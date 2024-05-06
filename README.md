@@ -1,10 +1,13 @@
 # Olá, eu me chamo Lucas sou um estudante de programação e aficionado em tecnologia. 
 ---
-**Minhas redes sociais:**
-* [Instagram]()
-* [Linkedin]()
-* [Email para contato]()
-* [Git Hub](https://github.com/LucasSouza67)
+<div>
+  <a href="https://github.com/LucasSouza67/">
+    <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=LucasSouza67&show_icons=true&theme=dark&show_icons=true*include_all_commits=true"/>
+  </a>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSouza67&layout=compact&theme=dark" />
+</div>
+
+
 
 
 
