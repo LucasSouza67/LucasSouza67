@@ -1,4 +1,4 @@
-# Olá, eu me chamo Lucas sou um estudante de programação e aficionado em tecnologia. 
+# Olá! Sou Lucas, um estudante explorando o universo da programação e profundamente curioso sobre as inovações tecnológicas. 
 ---
 <div>
   <a href="https://github.com/LucasSouza67/">
