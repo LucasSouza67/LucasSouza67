@@ -1,4 +1,4 @@
-# Olá! Sou Lucas, um estudante explorando o universo da programação e profundamente curioso sobre as inovações tecnológicas. 
+# Olá! Sou Lucas, um programador apaixonado pelo universo da programação e profundamente curioso sobre as inovações tecnológicas. 
 ---
 <div>
   <a href="https://github.com/LucasSouza67/">
