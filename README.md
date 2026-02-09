@@ -4,6 +4,8 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LucasSouza67&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
+  http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
+
  ---
  ## Tecnologias com que trabalho no cotidiano 
 <div style="display: inline_block"><br>
@@ -14,7 +16,8 @@
     <img align="center" alt="" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
     <img align="center" alt="" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
     <img align="center" alt="" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
-    <img align="center" alt="" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />  
+    <img align="center" alt="" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
+    <img align="center" alt="" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Dark.svg" />  
 </div>
 
 ---
