@@ -5,6 +5,9 @@
 </div>
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSouza67&layout=compact&theme=dark)
+
+---
 
 ## Tecnologias que utilizo no cotidiano
 
